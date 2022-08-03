@@ -4,3 +4,6 @@ def prueba(a, b, c):
 
 #kesesto
 #Esto es otro comentario
+
+def resta(a,b):
+    return a-b
